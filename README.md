@@ -8,3 +8,5 @@ harvey_week1.py
 1. Week1
 https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python
 1. Week2
+https://leetcode.com/problems/roman-to-integer/
+https://leetcode.com/problems/longest-common-prefix/
