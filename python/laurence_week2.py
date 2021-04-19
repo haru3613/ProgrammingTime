@@ -5,7 +5,7 @@ Created on Mon Apr 19 08:33:30 2021
 
 @author: xs0004173
 """
-
+#Q1
 #My solution 68ms 5.88%
 
 def romanToInt(self, s: str) -> int:
@@ -81,4 +81,18 @@ def romanToInt(self, s: str) -> int:
         r = sum(roman)
         return(r)
 """  
-        
+#Q2
+def longestCommonPrefix(self, strs: list[str]) -> str:
+    
+    if not strs: return ""
+    
+    result = ""
+    minStrs = min(strs)
+    maxStrs = max(strs)
+    
+    for i, element in enumerate(minStrs):
+        if element == maxStrs[i]:
+            result = result + element
+        else:
+            break
+    return result
