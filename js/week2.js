@@ -57,3 +57,10 @@ function calRoman (s) {
     }
   }
   return calRoman(s);
+  
+// console.log(calRoman("I"));  
+// console.log(calRoman("II"));
+// console.log(calRoman("LVIII"));
+// console.log(calRoman("IX"));
+// console.log(calRoman("MCMXCIV"));
+// console.log(calRoman("CM"));
