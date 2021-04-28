@@ -6,10 +6,10 @@ harvey_week1.py
 ```
 ## Question
 1. Week1
-https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python
+* https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python
 1. Week2
-https://leetcode.com/problems/roman-to-integer/ \n
-https://leetcode.com/problems/longest-common-prefix/
+* https://leetcode.com/problems/roman-to-integer/
+* https://leetcode.com/problems/longest-common-prefix/
 1. Week3
-https://leetcode.com/problems/merge-two-sorted-lists/ \n
-https://leetcode.com/problems/search-insert-position/
+* https://leetcode.com/problems/merge-two-sorted-lists/
+* https://leetcode.com/problems/search-insert-position/
